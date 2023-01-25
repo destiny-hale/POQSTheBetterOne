@@ -35,3 +35,9 @@ Pause - ESC
 
 
 
+![game1](https://user-images.githubusercontent.com/119532602/214694495-f6e909f0-312f-4f86-b47e-bbb42b9b03f9.png)
+![image](https://user-images.githubusercontent.com/119532602/214694642-48b569c4-ec4d-452d-883e-2a4b38db7c06.png)
+![image](https://user-images.githubusercontent.com/119532602/214695174-5403b094-d2c5-4e86-bb40-b64eefe8ad3e.png)
+![image](https://user-images.githubusercontent.com/119532602/214695284-b2481bc0-71de-4ad9-a614-4ff3d6080b56.png)
+![image](https://user-images.githubusercontent.com/119532602/214695321-63c74561-e77e-4ed2-bb9e-440cf41f1040.png)
+
