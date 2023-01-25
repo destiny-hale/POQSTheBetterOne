@@ -14,6 +14,9 @@ Keep playing to learn the strategy and abilties of each character!
 
 Maybe even find the source of the evilfaces?
 
+To play, either download these files and open them with a GDevelop interface, or download this zip file and run the .exe.
+https://drive.google.com/file/d/1DYzapy6VYRq5RVVUijORvns6hxzH89eB/view?usp=share_link
+
 Controls
 
 Up - W/Up Arrow Key
