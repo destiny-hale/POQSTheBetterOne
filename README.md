@@ -1,4 +1,4 @@
-# POQS:The Better One
+# POQS: The Better One
 A game based off the original P.O.Q.S I made using Kaboom. This entire game was made using GDevelop.
 
 In Practical Opulent Queryplan Shooter, you start out as a little smile character with the ability to heal yourself and shoot bullets toward the evilface enemies. 
