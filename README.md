@@ -18,7 +18,7 @@ To play, either download these files and open them with a GDevelop interface, do
 
 https://drive.google.com/file/d/1DYzapy6VYRq5RVVUijORvns6hxzH89eB/view?usp=share_link
 
-https://liluo.io/instant-builds/4934e3b8-663a-4e39-a155-43e710da3932
+https://liluo.io/destinyhale/poqsthebetterone
 
 Controls
 
