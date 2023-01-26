@@ -14,8 +14,10 @@ Keep playing to learn the strategy and abilties of each character!
 
 Maybe even find the source of the evilfaces?
 
-To play, either download these files and open them with a GDevelop interface, or download this zip file and run the .exe.
+To play, either download these files and open them with a GDevelop interface, download this zip file and run the .exe, or play it through liluo.io.
+
 https://drive.google.com/file/d/1DYzapy6VYRq5RVVUijORvns6hxzH89eB/view?usp=share_link
+https://liluo.io/instant-builds/4934e3b8-663a-4e39-a155-43e710da3932
 
 Controls
 
